@@ -46,5 +46,11 @@ El análisis se basó en tres conjuntos de datos clave:
 
 *<img width="1178" height="705" alt="image" src="https://github.com/user-attachments/assets/191550ef-c213-4406-955f-db26b2f90ca2" />
 
+<img width="990" height="589" alt="image" src="https://github.com/user-attachments/assets/5871d2f3-52f8-4321-bc41-d3bb9532a165" />
+
+<img width="1389" height="687" alt="image" src="https://github.com/user-attachments/assets/779cf3b2-4d08-490c-b30e-055841ab6a79" />
+
+<img width="1590" height="594" alt="image" src="https://github.com/user-attachments/assets/0daa88f6-2d4a-4363-b389-0405fc472754" />
+
 
 
