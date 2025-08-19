@@ -23,7 +23,7 @@ El análisis se basó en tres conjuntos de datos clave:
     * `numpy`: Para operaciones numéricas.
     * `matplotlib` / `seaborn`: Para la creación de gráficos y visualizaciones que ilustran las tendencias y métricas clave.
 * **SQL (Conceptos):** Aplicación de lógica de bases de datos para combinar y estructurar los datos de múltiples fuentes antes o durante el análisis en Python.
-* **Jupyter Notebook:** Entorno de desarrollo para un análisis interactivo y la presentación de resultados.
+* **Jupyter Notebook - VSCode:** Entorno de desarrollo para un análisis interactivo y la presentación de resultados.
 
 ## Metodología
 1.  **Preparación de Datos:** Carga de los datasets, inspección de tipos de datos, limpieza y optimización para el análisis.
@@ -38,13 +38,7 @@ El análisis se basó en tres conjuntos de datos clave:
     * Síntesis de los hallazgos clave.
     * Propuestas fundamentadas sobre las fuentes de marketing más rentables y dónde concentrar futuras inversiones.
 
-## Resultados y Conclusiones (Ejemplos, adapta con tus hallazgos reales)
-* Se observó que la `Source ID X` es la fuente de adquisición de clientes con el **ROMI más alto**, indicando una inversión muy rentable.
-* La mayoría de los usuarios realizan su primera compra en los primeros 7 días después de su primera sesión, siendo los `dispositivos móviles` un factor clave en las conversiones rápidas.
-* El **LTV promedio** de los clientes provenientes de la `Source ID Y` es significativamente mayor, justificando una mayor inversión en este canal a largo plazo.
-* Se recomienda redirigir un X% del presupuesto de marketing a la `Source ID Z` debido a su alto potencial de rentabilidad, priorizando la optimización de campañas para dispositivos [móviles/escritorio].
-
-*<img width="1178" height="705" alt="image" src="https://github.com/user-attachments/assets/191550ef-c213-4406-955f-db26b2f90ca2" />
+<img width="1178" height="705" alt="image" src="https://github.com/user-attachments/assets/191550ef-c213-4406-955f-db26b2f90ca2" />
 
 <img width="990" height="589" alt="image" src="https://github.com/user-attachments/assets/5871d2f3-52f8-4321-bc41-d3bb9532a165" />
 
