@@ -43,3 +43,8 @@ El análisis se basó en tres conjuntos de datos clave:
 * La mayoría de los usuarios realizan su primera compra en los primeros 7 días después de su primera sesión, siendo los `dispositivos móviles` un factor clave en las conversiones rápidas.
 * El **LTV promedio** de los clientes provenientes de la `Source ID Y` es significativamente mayor, justificando una mayor inversión en este canal a largo plazo.
 * Se recomienda redirigir un X% del presupuesto de marketing a la `Source ID Z` debido a su alto potencial de rentabilidad, priorizando la optimización de campañas para dispositivos [móviles/escritorio].
+
+*<img width="1178" height="705" alt="image" src="https://github.com/user-attachments/assets/191550ef-c213-4406-955f-db26b2f90ca2" />
+
+
+
